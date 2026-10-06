@@ -1,3 +1,5 @@
 # wikipedia_reader
 
-A new Flutter project.
+project from https://docs.flutter.dev/learn/pathway/tutorial
+
+<img src="screenshot.png" />
